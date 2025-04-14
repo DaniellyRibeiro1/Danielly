@@ -1,0 +1,5 @@
+let lista = ['gato','cachorro','passaro','peixe']
+let a 
+for (let animais of lista){
+console.log(animais.toUpperCase());
+}
